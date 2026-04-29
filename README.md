@@ -1,6 +1,6 @@
 # ECON1626 — AI and the Labour Market: Policy Proposal
 
-**Student:** YuChao Wang
+**Student:** YuChau Wang
 **Student ID:** 4112926
 **Course:** ECON1626 Economics of AI
 **Institution:** RMIT University
