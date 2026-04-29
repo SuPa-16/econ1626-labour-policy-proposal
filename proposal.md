@@ -54,3 +54,43 @@ Modelled on Singapore's SkillsFuture programme, every Australian worker would re
 
 **Option 3 — AI Workforce Transition Levy**
 A levy applied to firms whose AI adoption displaces workers beyond a defined full-time-equivalent threshold. Revenue collected would fund Option 1. While economically logical — allocating transition costs to those who generate them — this option faces significant industry opposition and complex attribution challenges, making near-term implementation politically difficult. It is best positioned as a medium-term revenue mechanism pending stakeholder consultation.
+---
+
+## Recommended Package & Implementation Plan
+
+This proposal recommends implementing **Options 1 and 2 in combination**, with Option 3 deferred pending further consultation with industry and unions.
+
+| Phase | Timeline | Key Actions | Lead Agency | KPI |
+|---|---|---|---|---|
+| 1 — Design | Months 1–6 | Establish cross-agency taskforce; map high-risk occupations; co-design curriculum with industry partners | DEWR + CSIRO | Taskforce operational by Month 3 |
+| 2 — Pilot | Months 7–18 | Launch Reskilling Fund in 3 priority sectors; begin Entitlement rollout via myGov platform | DEWR + TAFE Australia | 10,000 workers enrolled |
+| 3 — Scale | Months 19–36 | National rollout; activate employer co-contribution; annual curriculum review cycle | DEWR + ATO | 100,000 workers trained; 60% in-employment rate 6 months post-training |
+
+Estimated total cost: **$4.0–4.5 billion over four years**, partially offset by reduced income support expenditure and increased tax revenue from re-employed workers. This is comparable in scale to the Australian Government's investment in JobTrainer (2020–2022) and represents a proportionate response to a structural disruption of equivalent magnitude.
+
+---
+
+## Risks & Mitigations
+
+| Risk | Likelihood | Impact | Mitigation |
+|---|---|---|---|
+| Low worker uptake due to access or awareness barriers | Medium | High | Simplified myGov enrolment; proactive outreach via Centrelink, unions, and community organisations |
+| Training curricula becoming outdated as AI capabilities advance | High | Medium | Annual review cycle aligned to National Skills Commission forecasts and industry input |
+| Employer non-compliance with co-contribution obligations | Medium | Medium | ATO enforcement mechanisms; mandatory public reporting for large employers |
+| Political resistance from industry and fiscal conservatives | Medium | Low | Frame initiative as national competitiveness investment; cite Germany and Singapore precedents |
+
+---
+
+## References
+
+Acemoglu, D., & Restrepo, P. (2018). Robots and jobs: Evidence from US labor markets. *NBER Working Paper 23285*. https://www.nber.org/system/files/working_papers/w23285/w23285.pdf
+
+Autor, D., Levy, F., & Murnane, R. (2003). The skill content of recent technological change. *Quarterly Journal of Economics, 118*(4), 1279–1333. https://economics.mit.edu/sites/default/files/publications/skill-content-of-technological-change.pdf
+
+CSIRO. (2023). *Australia's AI ecosystem: Catalysing an AI industry*. https://www.csiro.au/-/media/D61/AI-Ecosystem-Catalysing-an-AI-Industry-Report/Aus-AI-Ecosystem-Report-2023.pdf
+
+CSIRO. (2026). *AI adopters aren't cutting jobs, they're creating them*. https://www.csiro.au/en/news/All/Articles/2026/April/Research-into-firms-adopting-AI
+
+National Skills Commission. (2024). *Skills priority list*. Australian Government. https://www.nationalskillscommission.gov.au/our-work/skills-priority-list
+
+Treasury, Australian Government. (2023). *2023 intergenerational report*. https://treasury.gov.au/publication/2023-intergenerational-report
