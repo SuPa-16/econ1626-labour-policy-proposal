@@ -10,7 +10,6 @@
 
 Artificial intelligence is reshaping the Australian labour market at a pace that existing policy frameworks are not equipped to manage. While recent CSIRO research (2026) shows that AI-adopting firms post 36% more non-AI job advertisements than non-adopters — suggesting task redistribution rather than mass displacement — the structural consequences remain serious. Finance, professional services, logistics, and healthcare are undergoing rapid task-level disruption, creating a skills mismatch that disproportionately affects lower-qualified, older, and regional workers. Without targeted intervention, this transition will deepen wage inequality and reduce labour force participation among already-vulnerable groups. This proposal evaluates three concrete policy options and recommends a combined National AI Reskilling Fund and Portable Learning Entitlements scheme, to be delivered over a phased 36-month implementation at an estimated cost of $4.0–4.5 billion.
 
-**Word count: ~135 words ✅**
 
 ---
 
