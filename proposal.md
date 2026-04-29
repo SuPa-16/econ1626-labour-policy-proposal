@@ -34,3 +34,23 @@ AI adoption is contributing to a visible wage polarisation in the Australian lab
 ### Distributional and Equity Concerns
 
 The distributional impact of this transition is deeply uneven. Workers over 50, those without post-secondary qualifications, and those in regional areas face compounding disadvantage: elevated displacement risk combined with restricted access to reskilling pathways and geographic constraints on labour mobility. For these groups, technological transition is not a neutral economic process — it actively concentrates risk among those least equipped to adapt without targeted support. Any effective policy response must foreground this equity dimension rather than treating it as secondary to aggregate employment outcomes.
+---
+
+## Policy Options
+
+Three options are evaluated against four criteria: effectiveness in reducing displacement harm, cost to government, political feasibility, and equity of access.
+
+| Policy Option | Effectiveness | Cost | Political Feasibility | Equity |
+|---|---|---|---|---|
+| **Option 1:** National AI Reskilling Fund | High | Medium (~$2–3B / 4 years) | High | High |
+| **Option 2:** Portable Learning Entitlements | High | Medium (~$1.5B / 4 years) | Medium | High |
+| **Option 3:** AI Workforce Transition Levy | Medium | Self-funding | Low | Medium |
+
+**Option 1 — National AI Reskilling Fund**
+A federally funded program providing targeted training grants to workers in high-displacement sectors. Modelled on Germany's Qualifizierungschancengesetz (Qualification Opportunities Act), this fund would co-finance AI-literacy, data skills, and technical upskilling delivered through TAFE and accredited registered training organisations. Priority access would be guided by displacement risk forecasts published annually by the National Skills Commission, ensuring the fund remains responsive to labour market shifts rather than locked to a fixed occupational list.
+
+**Option 2 — Portable Learning Entitlements**
+Modelled on Singapore's SkillsFuture programme, every Australian worker would receive an annual learning credit ($1,000–$1,500) usable across accredited upskilling providers. Employers implementing significant AI-driven workforce changes would be required to match these credits dollar-for-dollar. This option preserves individual agency in skill selection, distributes adjustment costs equitably across government and firms, and creates structural incentives for continuous learning rather than one-off retraining.
+
+**Option 3 — AI Workforce Transition Levy**
+A levy applied to firms whose AI adoption displaces workers beyond a defined full-time-equivalent threshold. Revenue collected would fund Option 1. While economically logical — allocating transition costs to those who generate them — this option faces significant industry opposition and complex attribution challenges, making near-term implementation politically difficult. It is best positioned as a medium-term revenue mechanism pending stakeholder consultation.
